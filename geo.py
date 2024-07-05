@@ -137,3 +137,4 @@ for k in parties:
 
 outlier_scores_df.to_csv("KOGI_outlier_scores.csv", index=False)
 print(outlier_scores_df)
+
